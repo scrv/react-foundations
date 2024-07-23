@@ -1,1 +1,1 @@
-# react-foundations
+# nhk-easy-news
